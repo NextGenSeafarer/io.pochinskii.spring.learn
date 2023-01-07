@@ -21,7 +21,7 @@ package SpringFirstSteps.xmlConfigurationOnly;
     Можно внедрять через:
     Конструктор
     Сеттер
-
+    @Autowired
 
 */
 
